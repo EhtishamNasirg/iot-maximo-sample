@@ -1,6 +1,6 @@
 applications:
 - services:
-  - iotf-maximo
+  - iotf-maximo-sample99
   host: iot-maximo-sample99
   name: iot-maximo-sample99
   disk: 128M
