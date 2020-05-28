@@ -5,10 +5,10 @@
 	
 	"maximo-options": {
 		"protocol": "",
-		"hostname": "",
-		"port": "",
-		"user": "",
-		"password": "",
+		"hostname": "192.168.20.128",
+		"port": "9080",
+		"user": "administrator",
+		"password": "action00",
 		"auth_scheme": "",
 		"authtype": "",
 		"islean": 1
