@@ -1,8 +1,8 @@
 applications:
 - services:
   - iotf-maximo
-  host: iot-maximo99
-  name: iot-maximo9952
+  host: iot-maximo-sample
+  name: iot-maximo-sample
   disk: 128M
   command: node app.js
   path: .
