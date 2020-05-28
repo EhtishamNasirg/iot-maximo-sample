@@ -1,7 +1,7 @@
 {
 	"mqtt-topic": "iot-2/type/sensortag/id/tisensortag/evt/+/fmt/json",
 
-	"iotf-service-name": "iotf-maximo",
+	"iotf-service-name": "iot-maximo-sample-20200528184031307",
 	
 	"maximo-options": {
 		"protocol": "",
