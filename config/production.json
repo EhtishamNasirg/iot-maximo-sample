@@ -4,7 +4,7 @@
 	"iotf-service-name": "iot-maximo-sample-20200528184031307",
 	
 	"maximo-options": {
-		"protocol": "",
+		"protocol": "https",
 		"hostname": "211.26.237.240",
 		"port": "9080",
 		"user": "administrator",
